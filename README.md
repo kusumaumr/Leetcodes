@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kusumaumr/Leetcodes/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/kusumaumr/Leetcodes/tree/master/0258-add-digits) |
 | [2544-alternating-digit-sum](https://github.com/kusumaumr/Leetcodes/tree/master/2544-alternating-digit-sum) |
 ## Simulation
