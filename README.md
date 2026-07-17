@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kusumaumr/Leetcodes/tree/master/2553-separate-the-digits-in-an-array) |
+| [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
+| [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
 ## Math
 |  |
 | ------- |
