@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kusumaumr/Leetcodes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
@@ -13,12 +14,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kusumaumr/Leetcodes/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/kusumaumr/Leetcodes/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [2544-alternating-digit-sum](https://github.com/kusumaumr/Leetcodes/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
@@ -42,4 +45,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
