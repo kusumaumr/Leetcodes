@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kusumaumr/Leetcodes/tree/master/2553-separate-the-digits-in-an-array) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kusumaumr/Leetcodes/tree/master/0693-binary-number-with-alternating-bits) |
 ## Binary Search
