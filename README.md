@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/kusumaumr/Leetcodes/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/kusumaumr/Leetcodes/tree/master/0709-to-lower-case) |
 ## Number Theory
 |  |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/kusumaumr/Leetcodes/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
