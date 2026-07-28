@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kusumaumr/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kusumaumr/Leetcodes/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/kusumaumr/Leetcodes/tree/master/0709-to-lower-case) |
 ## Number Theory
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kusumaumr/Leetcodes/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kusumaumr/Leetcodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
