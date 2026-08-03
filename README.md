@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kusumaumr/Leetcodes/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kusumaumr/Leetcodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kusumaumr/Leetcodes/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kusumaumr/Leetcodes/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/kusumaumr/Leetcodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [2544-alternating-digit-sum](https://github.com/kusumaumr/Leetcodes/tree/master/2544-alternating-digit-sum) |
