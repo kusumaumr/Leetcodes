@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/kusumaumr/Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kusumaumr/Leetcodes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kusumaumr/Leetcodes/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kusumaumr/Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
