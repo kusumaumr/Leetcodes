@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/kusumaumr/Leetcodes/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/kusumaumr/Leetcodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/kusumaumr/Leetcodes/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/kusumaumr/Leetcodes/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
