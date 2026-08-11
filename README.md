@@ -11,6 +11,7 @@
 | [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kusumaumr/Leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kusumaumr/Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kusumaumr/Leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kusumaumr/Leetcodes/tree/master/2553-separate-the-digits-in-an-array) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kusumaumr/Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/kusumaumr/Leetcodes/tree/master/2670-find-the-distinct-difference-array) |
 ## Math
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kusumaumr/Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kusumaumr/Leetcodes/tree/master/0643-maximum-average-subarray-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kusumaumr/Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
