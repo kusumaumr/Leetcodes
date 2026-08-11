@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusumaumr/Leetcodes/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kusumaumr/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kusumaumr/Leetcodes/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kusumaumr/Leetcodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kusumaumr/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
 ## Sorting
 |  |
