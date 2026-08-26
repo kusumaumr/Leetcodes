@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/kusumaumr/Leetcodes/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/kusumaumr/Leetcodes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kusumaumr/Leetcodes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kusumaumr/Leetcodes/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/kusumaumr/Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kusumaumr/Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kusumaumr/Leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/kusumaumr/Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kusumaumr/Leetcodes/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kusumaumr/Leetcodes/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
